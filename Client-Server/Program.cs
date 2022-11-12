@@ -11,7 +11,7 @@ namespace Client_Server
         static void Main(string[] args)
         {
             //habra dos veces este programa, en uno de ellos haga el siguiente
-            //bool true para correrlo como servidor, al iniciar primero corra el porgrama servidor
+            //bool true para correrlo como servidor, al iniciar primero corra el porgrama servidor con el bool true
             bool runningServer = false;
 
             if (runningServer)
